@@ -1,9 +1,9 @@
 # Global-learning
 Global learning Trend Project 
 
-Authors: Jiaqi Tang, Ziyi Wang, Yongjie Yan, Shenggang Qian
-
 Date: 26/10/2023
+
+Authors: Jiaqi Tang, Ziyi Wang, Yongjie Yan, Shenggang Qian
 
 There are three files including model_code, pre_processing_package, dashborad, report, meeting minutes and user guide.
 
