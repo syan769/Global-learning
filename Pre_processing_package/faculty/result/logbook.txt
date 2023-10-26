@@ -1,0 +1,408 @@
+ID: 52710
+City Before: Colorado Springs
+Country Before: United States Of America
+City after: Colorado Springs
+Country after: United States
+--------------------
+ID: 53196
+City Before: Colorado Springs
+Country Before: United States Of America
+City after: Colorado Springs
+Country after: United States
+--------------------
+ID: 48183
+City Before: Encinitas
+Country Before: United States Of America
+City after: Encinitas
+Country after: United States
+--------------------
+ID: 48188
+City Before: Carmel-by-the-Sea
+Country Before: United States Of America
+City after: Carmel-by-the-Sea
+Country after: United States
+--------------------
+ID: 48408
+City Before: Encinitas
+Country Before: United States Of America
+City after: Encinitas
+Country after: United States
+--------------------
+ID: 48422
+City Before: New York
+Country Before: USA
+City after: New York
+Country after: United States
+--------------------
+ID: 53143
+City Before: Den Haag
+Country Before: The Netherlands
+City after: Den Haag
+Country after: Netherlands
+--------------------
+ID: 60325
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: Netherlands
+--------------------
+ID: 60326
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: Netherlands
+--------------------
+ID: 60327
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: Netherlands
+--------------------
+ID: 60302
+City Before: London
+Country Before: England
+City after: London
+Country after: Netherlands
+--------------------
+ID: 60303
+City Before: London
+Country Before: England
+City after: London
+Country after: Netherlands
+--------------------
+ID: 60304
+City Before: London
+Country Before: England
+City after: London
+Country after: Netherlands
+--------------------
+ID: 60328
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: Netherlands
+--------------------
+ID: 60329
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: Netherlands
+--------------------
+ID: 60330
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: Netherlands
+--------------------
+ID: 60331
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: Netherlands
+--------------------
+ID: 60332
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: Netherlands
+--------------------
+ID: 60361
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: Netherlands
+--------------------
+ID: 60333
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: Netherlands
+--------------------
+ID: 60305
+City Before: London
+Country Before: England
+City after: London
+Country after: Netherlands
+--------------------
+ID: 57003
+City Before: Baluwatar
+Country Before: Kathmandu
+City after: Baluwatar
+Country after: Nepal
+--------------------
+ID: 60306
+City Before: London
+Country Before: England
+City after: London
+Country after: Nepal
+--------------------
+ID: 60334
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: Nepal
+--------------------
+ID: 59122
+City Before: Portland
+Country Before: United States Of America
+City after: Portland
+Country after: United States
+--------------------
+ID: 59779
+City Before: Tualatin
+Country Before: United States Of America
+City after: Tualatin
+Country after: United States
+--------------------
+ID: 59788
+City Before: Portland
+Country Before: United States Of America
+City after: Portland
+Country after: United States
+--------------------
+ID: 60335
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60362
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60336
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60359
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60337
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60338
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60339
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 58781
+City Before: Quexon City
+Country Before: Philliipines
+City after: Quexon City
+Country after: United States
+--------------------
+ID: 59158
+City Before: Quexon City
+Country Before: Philliipines
+City after: Quexon City
+Country after: United States
+--------------------
+ID: 60340
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 59124
+City Before: NoumÃƒÂ©a
+Country Before: Nouvelle-CalÃƒÂ©donie
+City after: NoumÃƒÂ©a
+Country after: United States
+--------------------
+ID: 59787
+City Before: NoumÃ©a
+Country Before: Nouvelle-CalÃ©donie
+City after: NoumÃ©a
+Country after: United States
+--------------------
+ID: 60307
+City Before: London
+Country Before: England
+City after: London
+Country after: United States
+--------------------
+ID: 60341
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60342
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60343
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60344
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60345
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60346
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60347
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60349
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60348
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60766
+City Before: Middleton
+Country Before: The United Kingdom
+City after: Middleton
+Country after: United States
+--------------------
+ID: 60360
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60363
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60350
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60308
+City Before: London
+Country Before: England
+City after: London
+Country after: United States
+--------------------
+ID: 60351
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60309
+City Before: London
+Country Before: England
+City after: London
+Country after: United States
+--------------------
+ID: 60310
+City Before: London
+Country Before: England
+City after: London
+Country after: United States
+--------------------
+ID: 60352
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60353
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60354
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60311
+City Before: London
+Country Before: England
+City after: London
+Country after: United States
+--------------------
+ID: 60355
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60364
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60356
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60357
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60312
+City Before: London
+Country Before: England
+City after: London
+Country after: United States
+--------------------
+ID: 60358
+City Before: Prague
+Country Before: Czech Republic
+City after: Prague
+Country after: United States
+--------------------
+ID: 60313
+City Before: London
+Country Before: England
+City after: London
+Country after: United States
+--------------------
